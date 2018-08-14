@@ -53,7 +53,7 @@ end
 def runner
   welcome 
   initial_total = intitial_round
-  hit?(initial_total)
+  new_total = hit?(initial_total)
   end_game
 end
     
