@@ -42,7 +42,7 @@ end
 
 def invalid_command
   puts "Please enter a valid command"
-  hit? 
+  prompts_user  
 end
 
 #####################################################
