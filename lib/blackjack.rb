@@ -30,7 +30,7 @@ def initial_round
 end
 
 def hit?(current_total)
-  # code hit? here
+  
 end
 
 def invalid_command
