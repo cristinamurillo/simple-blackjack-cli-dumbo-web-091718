@@ -56,7 +56,6 @@ def runner
   new_total = 0 
   while new_total <=21
     new_total = hit?(initial_total)
-  
   end_game
 end
     
