@@ -32,7 +32,9 @@ end
 def hit?(current_total)
   prompt_user 
   input = get_user_input
-  if 
+  if input == 's'
+    
+  end
 end
 
 def invalid_command
