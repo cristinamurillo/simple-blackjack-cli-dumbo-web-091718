@@ -31,8 +31,8 @@ end
 
 def hit?(current_total)
   prompt_user 
-  get_user_input
-  
+  input = get_user_input
+  if 
 end
 
 def invalid_command
